@@ -14,7 +14,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/kanchana_tejaswy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kanchana_tejaswy" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/tejaswy-kanchana-810740327/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kanchana_tejaswy" height="30" width="40" /></a>
 <a href="https://instagram.com/i_am_teja_369" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="i_am_teja_369" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/falcon-7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="falcon-7" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/kanchana_tejaswy" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="kanchana_tejaswy" height="30" width="40" /></a>
