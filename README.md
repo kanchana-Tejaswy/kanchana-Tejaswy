@@ -3,9 +3,18 @@
 <h1 align="center">Hi 👋, I'm Kanchana-Tejaswy</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif ">
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=00C4FF&center=true&vCenter=true&width=600&lines=🚀+Passionate+about+AI+%26+Automation;💡+Problem+Solver+and+Quick+Learner;🎯+Building+Projects+in+AI%2C+ML+%26+RPA;📚+Always+Exploring+New+Technologies" alt="Typing SVG" />
+</p>  
 
+
+------------
+<!----
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kanchana-tejaswy&label=Profile%20views&color=0e75b6&style=flat" alt="kanchana-tejaswy" /> </p>
+---->
 
+
+### About me 
 - 🔭 I’m currently working as **uipath core member**
 
 - 💬 Ask me about **robotic automation and web development**
