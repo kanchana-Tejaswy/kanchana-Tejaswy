@@ -19,7 +19,7 @@
 
 - 💬 Ask me about **robotic automation and web development**
 
-- 📫 How to reach me **mail2tejaswy@gmail.com**
+- 📫 How to reach me **mail2tejaswy@gmail.com.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
