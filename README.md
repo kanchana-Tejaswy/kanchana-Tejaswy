@@ -15,7 +15,7 @@
 
 
 ### About me 
-- 🔭 I’m currently working as **uipath core member.**
+- 🔭 I’m currently working as **uipath core member**
 
 - 💬 Ask me about **robotic automation and web development**
 
