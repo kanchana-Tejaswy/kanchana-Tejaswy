@@ -17,7 +17,7 @@
 ### About me 
 - 🔭 I’m currently working as **uipath core member**
 
-- 💬 Ask me about. **robotic automation and web development**
+- 💬 Ask me about. **robotic automation and web development.**
 
 - 📫 How to reach me **mail2tejaswy@gmail.com**
 
