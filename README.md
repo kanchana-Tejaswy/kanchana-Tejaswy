@@ -4,7 +4,7 @@
 <!---<h3 align="center">A passionate frontend developer from India</h3> 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif "> --->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=00C4FF&center=true&vCenter=true&width=600&lines=🚀+Passionate+about+AI+%26+Automation;💡+Problem+Solver+and+Quick+Learner;🎯+Building+Projects+in+AI%2C+ML+%26+RPA;📚+Always+Exploring+New+Technologies;2D+Animator;Web+Developer;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=00C4FF&center=true&vCenter=true&width=600&lines=🚀+Passionate+about+AI+%26+Automation;💡+Problem+Solver+and+Quick+Learner;🎯+Building+Projects+in+%2C++%26+RPA;📚+Always+Exploring+New+Technologies;2D+Animator;Web+Developer;" alt="Typing SVG" />
 </p>  
 
 
