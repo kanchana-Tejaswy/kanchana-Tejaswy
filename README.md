@@ -68,10 +68,7 @@
 
 ## 📊 Most Used Languages
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kanchana-tejaswy&show_icons=true&locale=en&layout=compact" alt="kanchana-Tejaswy" />
-</p>
-
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kanchana-tejaswy&show_icons=true&locale=en&layout=compact" alt="kanchana-tejaswy" /></p>
 <br/><br/><br/><br/><br/>
 
 ---
