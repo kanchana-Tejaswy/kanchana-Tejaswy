@@ -1,41 +1,105 @@
 ## Hi there 👋
 
-<h1 align="center"> I'm Kanchana-Tejaswy</h1>
-<h3 align="center">A passionate frontend developer from India</h3> 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif "> 
+<h1 align="center">I'm Kanchana Tejaswy</h1>
+<h3 align="center">RPA Developer | Web Developer | AI/ML Explorer</h3>
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=00C4FF&center=true&vCenter=true&width=600&lines=🚀+Passionate+about+AI+%26+Automation;💡+Problem+Solver+and+Quick+Learner;🎯+Building+Projects+in+RPA;📚+Always+Exploring+New+Technologies;2D+Animator;Web+Developer;" alt="Typing SVG" />
-</p>  
-
-
-------------
-<!----
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kanchana-tejaswy&label=Profile%20views&color=0e75b6&style=flat" alt="kanchana-tejaswy" /> </p>
----->
-
-
-#### About me 
-- 🔭 I’m currently working as **uipath core member**
-
-- 💬 Ask me about. **robotic automation and web development**
-
-- 📫 How to reach me **mail2tejaswy@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/tejaswy-kanchana-810740327/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kanchana_tejaswy" height="30" width="40" /></a>
-<a href="https://instagram.com/i_am_teja_369" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="i_am_teja_369" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/falcon-7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="falcon-7" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/kanchana_tejaswy" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="kanchana_tejaswy" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/tejaswy kanchana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="tejaswy kanchana" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/k_tejaswy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="k_tejaswy" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/tejaswy kanchana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="tejaswy kanchana" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kanchana-tejaswy&show_icons=true&locale=en&layout=compact" alt="kanchana-tejaswy" /></p>
+## 👨‍💻 About Me
 
+- 🎓 **CSE Student at ACE Engineering College**
+- 🤖 **UiPath Core Team Member** – ACE Engineering College
+- 🔄 Working with **RPA, Web Development (Hybrid), and AI/ML (Beginner)**
+- 🧠 Automation tools I use: **UiPath, n8n, and AI tools (tool selection based on problem statements)**
+- 📢 **UiPath YouTube Content Creator** — teaching automation in a *fun & simple way*
+- ✍️ Write **technical blogs on LinkedIn** sharing my learning journey
+- 🧑‍🤝‍🧑 **NSS Volunteer** & **AEON Club Member**
+- 🏫 Participated in **3-Day Python Bootcamp at IIT Bombay**
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kanchana-tejaswy&" alt="kanchana-tejaswy" /></p>
+> I believe in learning by **building, teaching, and executing**, not just consuming content.
+
+---
+
+## 🧠 Core Domains
+
+- **Robotic Process Automation (RPA)**
+  - UiPath Studio
+  - Workflow & logic-based automation
+  - n8n automation flows
+  - AI tools integrated based on use-case
+
+- **Web Development**
+  - HTML, CSS, JavaScript
+  - Building structured, logic-driven web projects
+
+- **AI / ML**
+  - Beginner level
+  - Exploring fundamentals and real-world applications
+
+---
+
+## 💪 Strengths
+
+- ⚡ Fast Learner  
+- 🧘 Discipline & Consistency  
+- 🧑‍💼 Leadership  
+- 🎤 Public Speaking  
+
+---
+
+## 🛠️ Languages & Tools
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40"/>
+</p>
+
+---
+
+## 📊 Most Used Languages
+
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kanchana-tejaswy&show_icons=true&locale=en&layout=compact" alt="kanchana-tejaswy" />
+</p>
+
+<br/><br/><br/><br/><br/>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kanchana-tejaswy" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/tejaswy-kanchana-810740327/" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30"/>
+</a>
+<a href="https://instagram.com/i_am_teja_369" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30"/>
+</a>
+<a href="https://www.youtube.com/c/falcon-7" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="30"/>
+</a>
+<a href="https://www.leetcode.com/k_tejaswy" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30"/>
+</a>
+</p>
+
+---
+
