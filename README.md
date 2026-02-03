@@ -69,7 +69,7 @@
 ## 📊 Most Used Languages
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kanchana-tejaswy&show_icons=true&locale=en&layout=compact" alt="kanchana-tejaswy" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kanchana-tejaswy&show_icons=true&locale=en&layout=compact" alt="kanchana-Tejaswy" />
 </p>
 
 <br/><br/><br/><br/><br/>
@@ -79,7 +79,7 @@
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kanchana-tejaswy" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kanchana-Tejaswy />
 </p>
 
 ---
