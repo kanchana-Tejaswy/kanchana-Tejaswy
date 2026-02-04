@@ -4,7 +4,7 @@
 <h3 align="center">RPA Developer | Web Developer | AI/ML Explorer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=00C4FF&center=true&vCenter=true&width=600&lines=🚀+Passionate+about+AI+%26+Automation;💡+Problem+Solver+and+Quick+Learner;🎯+Building+Projects+in+RPA;📚+Always+Exploring+New+Technologies;2D+Animator;Web+Developer;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=00C4FF&center=true&vCenter=true&width=600&lines=🚀+Passionate+about+AI+%26+Automation;💡+Problem+Solver+and+Quick+Learner;🎯+Building+Projects+in+RPA;📚+Always+Exploring+New+Technologies;2D+Animator;Web+Developer;content+Creator ;" alt="Typing SVG" />
 </p>
 
 ---
@@ -18,7 +18,7 @@
 - 📢 **UiPath YouTube Content Creator** — teaching automation in a *fun & simple way*
 - ✍️ Write **technical blogs on LinkedIn** sharing my learning journey
 - 🧑‍🤝‍🧑 **NSS Volunteer** & **AEON Club Member**
-- 🏫 Participated in **3-Day Python Bootcamp at IIT Bombay**
+- 🏫 Participated in **3-Day Python Bootcamp IIT Bombay at ACE Engineering College**
 
 > I believe in learning by **building, teaching, and executing**, not just consuming content.
 
