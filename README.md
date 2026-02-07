@@ -42,6 +42,24 @@
 
 ---
 
+
+## Projects done 
+
+- **Robotic Process Automation (RPA)**
+  - UiPath Vocabulary bot
+  - Agentic ai online Compensation bot
+  - Cetificate generation bot  
+ 
+
+- **Web Development**
+  - Portfolio
+  
+
+- **AI / ML**
+  
+  
+
+---
 ## 💪 Strengths
 
 - ⚡ Fast Learner  
