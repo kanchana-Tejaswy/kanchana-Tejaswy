@@ -57,7 +57,10 @@
 
 - **AI / ML**
   
-  
+- **Projects working on**
+  - Ai voice agent
+  - youtube clone
+  - 
 
 ---
 ## 💪 Strengths
