@@ -1,11 +1,9 @@
 ## Hi there 👋
 
 <h1 align="center">I'm Kanchana Tejaswy</h1>
-<h3 align="center">RPA Developer | Web Developer | AI/ML Explorer</h3>
+<h3 align="center">Ace Ui Path Core team member | Web Developer | AI/ML Explorer</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=00C4FF&center=true&vCenter=true&width=600&lines=🚀+Passionate+about+AI+%26+Automation;💡+Problem+Solver+and+Quick+Learner;🎯+Building+Projects+in+RPA;📚+Always+Exploring+New+Technologies;2D+Animator;Web+Developer;content+Creator ;" alt="Typing SVG" />
-</p>
+
 
 ---
 
