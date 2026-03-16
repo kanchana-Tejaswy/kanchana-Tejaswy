@@ -7,7 +7,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 About Me. 
 
 - 🎓 **CSE Student at ACE Engineering College**
 - 🤖 **UiPath Core Team Member** – ACE Engineering College
