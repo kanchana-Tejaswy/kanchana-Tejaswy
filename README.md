@@ -46,17 +46,28 @@
 - **Robotic Process Automation (RPA)**
   - UiPath Vocabulary bot
   - Agentic ai online Compensation bot
-  - Cetificate generation bot  
+  - Cetificate Generation bot  
  
 
 - **Web Development**
   - Portfolio
+  - Password Generator
   
 
 - **AI / ML**
-  
+
+-  **Programing Project**
+   - Student Management Portal
+   - Weekely Progress tracker 
+   
+
+-  **Ai Integrated Project**
+    - AI uipath Mentor Chat bot 
+    - Ai Uipath Voice Mentor 
+
+
 - **Projects working on**
-  - Ai voice agent
+  - Space Shooter 
   - youtube clone
   - 
 
