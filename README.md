@@ -1,77 +1,68 @@
 ## Hi there 👋  
 
 <h1 align="center">I'm Kanchana Tejaswy</h1>
-<h3 align="center">Ace Ui Path Core team member | Web Developer | AI/ML Explorer</h3>
-  
-
+<h3 align="center">UiPath Core Team Member | Web Developer | AI/ML Explorer</h3>
 
 ---
 
-## 👨‍💻 About Me. 
+## 👨‍💻 About Me
 
 - 🎓 **CSE Student at ACE Engineering College**
-- 🤖 **UiPath Core Team Member** – ACE Engineering College
-- 🔄 Working with **RPA, Web Development (Hybrid), and AI/ML (Beginner)**
-- 🧠 Automation tools I use: **UiPath, n8n, and AI tools (tool selection based on problem statements)**
-- 📢 **UiPath YouTube Content Creator** — teaching automation in a *fun & simple way*
-- ✍️ Write **technical blogs on LinkedIn** sharing my learning journey
-- 🧑‍🤝‍🧑 **NSS Volunteer** & **AEON Club Member**
-- 🏫 Participated in **3-Day Python Bootcamp IIT Bombay at ACE Engineering College**
+- 🤖 **UiPath Core Team Member** – ACE Engineering College  
+- 🔄 Working with **RPA, Web Development (Hybrid), and AI/ML (Beginner Level)**  
+- 🧠 Experienced with automation tools: **UiPath, n8n, and AI tools** *(chosen based on problem statements)*  
+- 📢 **UiPath YouTube Content Creator** — simplifying automation in a *fun and easy-to-understand way*  
+- ✍️ Actively writing **technical blogs on LinkedIn**, sharing my learning journey  
+- 🧑‍🤝‍🧑 **NSS Volunteer** & **AEON Club Member**  
+- 🏫 Participated in a **3-Day Python Bootcamp (IIT Bombay) at ACE Engineering College**  
 
-> I believe in learning by **building, teaching, and executing**, not just consuming content.
+> 🚀 I believe in learning through **building, teaching, and executing** — not just consuming content.
 
 ---
 
 ## 🧠 Core Domains
 
-- **Robotic Process Automation (RPA)**
-  - UiPath Studio
-  - Workflow & logic-based automation
-  - n8n automation flows
-  - AI tools integrated based on use-case
+### 🔹 Robotic Process Automation (RPA)
+- UiPath Studio  
+- Workflow & logic-based automation  
+- n8n automation workflows  
+- AI tool integration based on use cases  
 
-- **Web Development**
-  - HTML, CSS, JavaScript
-  - Building structured, logic-driven web projects
+### 🔹 Web Development
+- HTML, CSS, JavaScript  
+- Building structured and logic-driven web applications  
 
-- **AI / ML**
-  - Beginner level
-  - Exploring fundamentals and real-world applications
+### 🔹 AI / ML
+- Beginner level  
+- Exploring fundamentals and real-world applications  
+
+---
+
+## 🚀 Projects
+
+### 🔹 RPA Projects
+- UiPath Vocabulary Bot  
+- Agentic AI Online Compensation Bot  
+- Certificate Generation Bot  
+
+### 🔹 Web Development Projects
+- Portfolio Website  
+- Password Generator  
+
+### 🔹 Programming Projects
+- Student Management Portal  
+- Weekly Progress Tracker  
+
+### 🔹 AI Integrated Projects
+- AI UiPath Mentor Chatbot  
+- AI UiPath Voice Mentor  
+
+### 🔹 Currently Working On
+- Space Shooter Game  
+- YouTube Clone  
 
 ---
 
-
-## Projects done 
-
-- **Robotic Process Automation (RPA)**
-  - UiPath Vocabulary bot
-  - Agentic ai online Compensation bot
-  - Cetificate Generation bot  
- 
-
-- **Web Development**
-  - Portfolio
-  - Password Generator
-  
-
-- **AI / ML**
-
--  **Programing Project**
-   - Student Management Portal
-   - Weekely Progress tracker 
-   
-
--  **Ai Integrated Project**
-    - AI uipath Mentor Chat bot 
-    - Ai Uipath Voice Mentor 
-
-
-- **Projects working on**
-  - Space Shooter 
-  - youtube clone
-  - 
-
----
 ## 💪 Strengths
 
 - ⚡ Fast Learner  
@@ -94,21 +85,6 @@
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40"/>
 </p>
 
-
-<!---
-## 📊 Most Used Languages
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kanchana-tejaswy&show_icons=true&locale=en&layout=compact" alt="kanchana-tejaswy" /></p>
-<br/><br/><br/><br/><br/>
-
---->
-<!---
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kanchana-Tejaswy />
-</p>
--->
 ---
 
 ## 🌐 Connect With Me
@@ -129,4 +105,3 @@
 </p>
 
 ---
-
