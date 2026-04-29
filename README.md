@@ -1,7 +1,7 @@
 ## Hi there 👋  
 
 <h1 align="center">I'm Kanchana Tejaswy</h1>
-<h3 align="center">UiPath Core Team Member | Web Developer | AI/ML Explorer</h3>
+<h3 align="center">UiPath Core Team Member | Web Developer | AI/ML Explorer | Ui Path Student Developer Champion </h3>
 
 ---
 
