@@ -47,7 +47,8 @@
 
 ### 🔹 Web Development Projects
 - Portfolio Website  
-- Password Generator  
+- Password Generator
+- Monk os
 
 ### 🔹 Programming Projects
 - Student Management Portal  
