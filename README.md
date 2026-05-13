@@ -86,6 +86,14 @@
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40"/>
 </p>
 
+## 📊 My GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kanchana-Tejaswy&show_icons=true&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=kanchana-Tejaswy&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kanchana-Tejaswy&layout=compact&theme=tokyonight&hide_border=true)
+
 ---
 
 ## 🌐 Connect With Me
