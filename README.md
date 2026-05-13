@@ -88,12 +88,11 @@
 
 ## 📊 My GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kanchana-Tejaswy&show_icons=true&theme=tokyonight&hide_border=true)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kanchana-tejaswy&show_icons=true&locale=en&layout=compact" alt="kanchana-tejaswy" /></p>
 
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=kanchana-Tejaswy&theme=tokyonight&hide_border=true)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kanchana-tejaswy&show_icons=true&locale=en" alt="kanchana-tejaswy" /></p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kanchana-Tejaswy&layout=compact&theme=tokyonight&hide_border=true)
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kanchana-tejaswy&" alt="kanchana-tejaswy" /></p>
 ---
 
 ## 🌐 Connect With Me
