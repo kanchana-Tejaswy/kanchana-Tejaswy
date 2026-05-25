@@ -56,7 +56,7 @@
 
 ### 🔹 AI Integrated Projects
 - AI UiPath Mentor Chatbot  
-- AI UiPath Voice Mentor  
+- AI hotel booking voic agent    
 
 ### 🔹 Currently Working On
 - Space Shooter Game  
