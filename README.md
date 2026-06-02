@@ -86,11 +86,6 @@
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40"/>
 </p>
 
-## 📊 My GitHub Stats
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kanchana-tejaswy&" alt="kanchana-tejaswy" /></p>
-
 
 ## 🌐 Connect With Me
 
