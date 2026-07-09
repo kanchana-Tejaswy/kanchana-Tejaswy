@@ -13,7 +13,8 @@
 - 🧠 Experienced with automation tools: **UiPath, n8n, and AI tools** *(chosen based on problem statements)*  
 - 📢 **UiPath YouTube Content Creator** — simplifying automation in a *fun and easy-to-understand way*  
 - ✍️ Actively writing **technical blogs on LinkedIn**, sharing my learning journey  
-- 🧑‍🤝‍🧑 **NSS Volunteer** & **AEON Club Member**  
+- 🧑‍🤝‍🧑 **NSS Volunteer** & **AEON Club Member**
+- 
 - 🏫 Participated in a **3-Day Python Bootcamp (IIT Bombay) at ACE Engineering College**  
 
 > 🚀 I believe in learning through **building, teaching, and executing** — not just consuming content.
