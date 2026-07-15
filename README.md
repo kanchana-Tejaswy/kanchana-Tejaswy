@@ -17,7 +17,7 @@
 -  **NSS Volunteer**
 -  **AEON Club Member**
 - **Nexus Technical club** - Vice president 
-- **Kalakrithi cultural clib** - sheduling team co - lead 
+- **Kalakrithi cultural club** - sheduling team co - lead 
 - 🏫 Participated in a **3-Day Python Bootcamp (IIT Bombay) at ACE Engineering College**  
 
 > 🚀 I believe in learning through **building, teaching, and executing** — not just consuming content.
