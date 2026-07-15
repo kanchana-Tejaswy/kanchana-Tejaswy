@@ -7,14 +7,17 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 **CSE Student at ACE Engineering College**
-- 🤖 **UiPath Core Team Member** – ACE Engineering College  
-- 🔄 Working with **RPA, Web Development (Hybrid), and AI/ML (Beginner Level)**  
-- 🧠 Experienced with automation tools: **UiPath, n8n, and AI tools** *(chosen based on problem statements)*  
-- 📢 **UiPath YouTube Content Creator** — simplifying automation in a *fun and easy-to-understand way*  
-- ✍️ Actively writing **technical blogs on LinkedIn**, sharing my learning journey  
-- 🧑‍🤝‍🧑 **NSS Volunteer** & **AEON Club Member**
-- 
+-  **CSE Student at ACE Engineering College**
+-  **UiPath Core Team Member** – ACE Engineering College
+-  **Ui Path Student Developer Champion**   
+-  Working with **RPA, Web Development (Hybrid), and AI/ML (Beginner Level)**  
+-  Experienced with automation tools: **UiPath, n8n, and AI tools** *(chosen based on problem statements)*  
+-  **UiPath YouTube Content Creator** — simplifying automation in a *fun and easy-to-understand way*  
+-  Actively writing **technical blogs on LinkedIn**, sharing my learning journey  
+-  **NSS Volunteer**
+-  **AEON Club Member**
+- **Nexus Technical club** - Vice president 
+- **Kalakrithi cultural clib** - sheduling team co - lead 
 - 🏫 Participated in a **3-Day Python Bootcamp (IIT Bombay) at ACE Engineering College**  
 
 > 🚀 I believe in learning through **building, teaching, and executing** — not just consuming content.
