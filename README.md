@@ -166,7 +166,7 @@ Key features include:
 
 **Technologies:** Next.js, TypeScript, Tailwind CSS, Supabase, Prisma, Google Authentication and Vercel
 
----
+--
 
 ### Monk Mode OS
 
@@ -185,7 +185,7 @@ Key features include:
 
 **Technologies:** Next.js, React, TypeScript, Tailwind CSS and local data storage
 
----
+--
 
 ### UiPath Vocabulary Bot
 
@@ -201,7 +201,7 @@ The automation can:
 
 **Technologies:** UiPath Studio and UiPath Orchestrator
 
----
+--
 
 ### Agentic AI Airline Compensation Bot
 
@@ -217,7 +217,7 @@ The project explores:
 
 **Technologies:** UiPath, artificial intelligence integrations and workflow automation
 
----
+--
 
 ### Certificate Generation Bot
 
@@ -233,7 +233,7 @@ The system can:
 
 This automation has been used for large-scale certificate generation during college activities and technical events.
 
----
+--
 
 ### AI UiPath Mentor Chatbot
 
@@ -247,7 +247,7 @@ The chatbot focuses on:
 * Practical learning assistance
 * Question-and-answer interaction
 
----
+--
 
 ### AI Hotel Booking Voice Agent
 
@@ -261,7 +261,7 @@ The project explores:
 * Conversational workflows
 * Automated booking assistance
 
----
+--
 
 ### Weekly Progress Tracker
 
@@ -269,7 +269,7 @@ A desktop application for recording weekly goals, reviewing completed work, and 
 
 **Technologies:** Java, Java Swing and SQLite
 
----
+--
 
 ### Portfolio Website
 
@@ -277,7 +277,7 @@ A personal portfolio website created to showcase my projects, skills, experience
 
 **Technologies:** HTML, CSS, JavaScript and responsive web design
 
----
+--
 
 ### Password Generator
 
@@ -291,7 +291,7 @@ The application allows users to control:
 * Numbers
 * Special characters
 
----
+--
 
 ### Student Management Portal
 
@@ -305,7 +305,7 @@ The project focuses on:
 * Data handling
 * Basic academic administration
 
----
+--
 
 ### n8n Automation Workflows
 
