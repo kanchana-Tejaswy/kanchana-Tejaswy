@@ -9,16 +9,16 @@ Computer Science Engineering student focused on building automation solutions, p
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/tejaswy-kanchana-810740327/">
-    <img src="https://img.shields.io/badge/LinkedIn-Kanchana%20Tejaswy-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/tejaswy-kanchana/">
+    <img src="https://img.shields.io/badge/LinkedIn-Kanchana%20Tejaswy-blue?style=for-the-badge&logo=linkedi" alt="LinkedIn"/>
   </a>
-  <a href="https://www.youtube.com/c/falcon-7">
+  <a href="https://www.youtube.com/@Falcon369-F7">
     <img src="https://img.shields.io/badge/YouTube-Falcon%207-red?style=for-the-badge&logo=youtube" alt="YouTube"/>
   </a>
   <a href="https://instagram.com/i_am_teja_369">
     <img src="https://img.shields.io/badge/Instagram-i__am__teja__369-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-  <a href="https://www.leetcode.com/k_tejaswy">
+  <a href="https://leetcode.com/u/k_tejaswy/">
     <img src="https://img.shields.io/badge/LeetCode-k__tejaswy-orange?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
   </a>
 </p>
@@ -438,28 +438,6 @@ I am interested in opportunities related to:
 * Software engineering internships
 * Open-source development
 
----
-
-## Connect With Me
-
-<table>
-  <tr>
-    <td><strong>LinkedIn</strong></td>
-    <td><a href="https://www.linkedin.com/in/tejaswy-kanchana-810740327/">Kanchana Tejaswy</a></td>
-  </tr>
-  <tr>
-    <td><strong>YouTube</strong></td>
-    <td><a href="https://www.youtube.com/c/falcon-7">Falcon 7</a></td>
-  </tr>
-  <tr>
-    <td><strong>Instagram</strong></td>
-    <td><a href="https://instagram.com/i_am_teja_369">i_am_teja_369</a></td>
-  </tr>
-  <tr>
-    <td><strong>LeetCode</strong></td>
-    <td><a href="https://www.leetcode.com/k_tejaswy">k_tejaswy</a></td>
-  </tr>
-</table>
 
 ---
 
