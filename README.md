@@ -1,7 +1,7 @@
 <h1 align="center">Kanchana Tejaswy</h1>
 
 <h3 align="center">
-UiPath Student Developer Champion | RPA Developer | Web Developer | AI and Machine Learning Explorer
+UiPath Student Developer Champion | RPA Developer | Web Developer | AI and Machine Learning Explorer     
 </h3>
 
 <p align="center">
