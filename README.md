@@ -33,12 +33,12 @@ I enjoy building projects that solve real-world problems, experimenting with new
 
 My current roles include:
 
-* UiPath Student Developer Champion
+* ACE  UiPath Student Developer Champion
 * UiPath Core Team Member at ACE Engineering College
 * Vice President of the Nexus Technical Club
 * Scheduling Team Co-Lead of the Kalakrithi Cultural Club
-* National Service Scheme Volunteer
-* AEON Club Member
+* National Service Scheme (NSS)  Volunteer
+* ex-AEON Club Member
 * UiPath-focused technical content creator
 * Technical blog writer on LinkedIn
 
